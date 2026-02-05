@@ -30,4 +30,4 @@ This project was created to practice JavaScript basics and understand DOM manipu
 ---
 
 ## 📸 Screenshot
-()
+(https://github.com/Raghav335/Counter--App/blob/main/screenshot%20for%20showing%20the%20structure.jpeg)
